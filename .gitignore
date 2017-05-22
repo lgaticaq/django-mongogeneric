@@ -1,4 +1,6 @@
+.python-version
 *.pyc
-.project
-.pydevproject
-*.bak
+/dist/
+/*.egg-info
+/*.eggs
+/build/
